@@ -62,4 +62,15 @@ ul li {
     <font color="red" face="Arial" size="5"> Contact </font>
 }
 
+pre {
+    max-width: 900px;
+    max-height: 300px;
+    min-height: 300px;
+    background-color: #47f209;
+    border-left: 4px solid orange;
+    overflow: auto;
+}
+code {
+    padding: 0px;
+}
 
